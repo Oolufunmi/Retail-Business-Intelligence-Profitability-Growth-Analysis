@@ -7,6 +7,8 @@ This project analyzes a dataset of **10,000+ retail transactions** to solve a sp
 
 ## 🔗 Live Interactive Dashboard
 👉 **[CLICK HERE TO VIEW THE INTERACTIVE REPORT](https://app.powerbi.com/groups/me/reports/f94bf851-325e-49c0-b014-1c5db49a7ffd/07d39cc8090006a020b2?experience=power-bi)**
+
+
 <img width="572" height="317" alt="image (12)" src="https://github.com/user-attachments/assets/902da999-d8c6-45ae-affd-88d53b079345" />
 <img width="569" height="362" alt="image (13)" src="https://github.com/user-attachments/assets/367e4371-ace7-45b6-99aa-84d7377ae93e" />
 <img width="567" height="316" alt="image (14)" src="https://github.com/user-attachments/assets/7b7d5fbe-fae0-49fa-a63c-3b5318de5899" />
