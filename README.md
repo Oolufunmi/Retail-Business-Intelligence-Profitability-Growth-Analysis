@@ -8,7 +8,7 @@ This project analyzes a dataset of **10,000+ retail transactions** to solve a sp
 ---
 
 ## 🔗 Live Interactive Dashboard
-👉 **[CLICK HERE TO VIEW THE INTERACTIVE REPORT](INSERT_YOUR_NOVYPRO_OR_POWERBI_LINK_HERE)**
+👉 **[CLICK HERE TO VIEW THE INTERACTIVE REPORT](https://app.powerbi.com/groups/me/reports/f94bf851-325e-49c0-b014-1c5db49a7ffd/07d39cc8090006a020b2?experience=power-bi)**
 
 ---
 
