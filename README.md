@@ -62,6 +62,6 @@ I translated the data into a boardroom-ready presentation. Below are the key str
 ---
 
 ## 👋 Connect with me
-* **LinkedIn:** [Insert Link]
-* **Portfolio:** [Insert Link]
-* **Email:** [Insert Email]
+* **LinkedIn:** [https://www.linkedin.com/in/olufunmilolaolaewe]
+* **Portfolio:** [https://github.com/Oolufunmi]
+* **Email:** [olufunmilolaolapejuolaewe@gmail.com]
