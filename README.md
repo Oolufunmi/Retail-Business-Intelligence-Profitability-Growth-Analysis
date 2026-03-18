@@ -1,4 +1,4 @@
-# Retail-Business-Intelligence-Profitability-Growth-Analysis
+# Retail-Business-Intelligence-Sales & Profitability-Growth-Analysis
 This project analyzes 10,000+ rows of retail data to identify growth opportunities and operational inefficiencies. Moving beyond basic sales tracking, this analysis focuses on profitability margins and customer behavior to provide actionable recommendations for a mid-sized retail business.
 ## 🎯 Executive Summary
 This project analyzes a dataset of **10,000+ retail transactions** to solve a specific business problem: **Identifying why high sales volume in certain categories is leading to profit loss.** Through this analysis, I discovered that the "Furniture" category is currently a "loss leader" due to inefficient shipping and discounting strategies, and I provided data-backed recommendations to recover 15% of lost margins.
