@@ -9,10 +9,12 @@ This project analyzes a dataset of **10,000+ retail transactions** to solve a sp
 👉 **[CLICK HERE TO VIEW THE INTERACTIVE REPORT](https://app.powerbi.com/groups/me/reports/f94bf851-325e-49c0-b014-1c5db49a7ffd/07d39cc8090006a020b2?experience=power-bi)**
 
 
-<img width="572" height="317" alt="image (12)" src="https://github.com/user-attachments/assets/902da999-d8c6-45ae-affd-88d53b079345" />
-<img width="569" height="362" alt="image (13)" src="https://github.com/user-attachments/assets/367e4371-ace7-45b6-99aa-84d7377ae93e" />
-<img width="567" height="316" alt="image (14)" src="https://github.com/user-attachments/assets/7b7d5fbe-fae0-49fa-a63c-3b5318de5899" />
-<img width="557" height="318" alt="image (15)" src="https://github.com/user-attachments/assets/29ea4c61-c0ab-4ecd-a295-6f0e5c5c14e4" />
+<img width="589" height="332" alt="Today 1" src="https://github.com/user-attachments/assets/f91a04e2-8cf3-40bd-a1a0-eed736949f79" />
+<img width="589" height="335" alt="today 2" src="https://github.com/user-attachments/assets/65c1472d-7ea4-4c3e-85d6-77bde01d99c9" />
+
+<img width="602" height="339" alt="today 3" src="https://github.com/user-attachments/assets/d9dd083d-7976-42ee-b8b6-f105bc4c1874" />
+
+
 
 
 
